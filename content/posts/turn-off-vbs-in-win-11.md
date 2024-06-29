@@ -1,7 +1,7 @@
 +++
 title = "如何保持 Hyper-V 开启，同时临时关闭 VBS"
-# date = 2021-10-23 15:54:00
-# lastmod = 2021-10-23 15:54:00
+date = 2021-10-23 15:54:00
+lastmod = 2021-10-23 15:54:00
 description = "教你如何在 Windows 11 关闭 VBS 的同时不影响 Hyper-V 服务，保持 WSL 和 WSA 正常工作 —— 没有 WSL 怎么种庄稼？"
 tags = [ "windows11" ]
 +++

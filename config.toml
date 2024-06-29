@@ -11,10 +11,6 @@ pygmentscodefencessyntax = true
 
 paginate = 5
 
-[frontmatter]
-date = ["date", ":default", ":git", ":fileModTime"]
-lastmod = [':git', ':fileModTime']
-
 [params]
 mode = "toggle"
 useCDN = true
