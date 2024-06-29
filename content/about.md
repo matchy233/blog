@@ -3,9 +3,9 @@ title = "About"
 layout = "about"
 +++
 
-This is the blog of [Matchy](https://matchy.bio).
+This is the technical blog of [Matchy](https://blog.matchy.bio). Blog posts can be in English, Chinese and Korean.
 
-The theme is designed by [themself](https://github.com/matchy233/archie), based on [archie](https://github.com/athul/archie), and powered by [Hugo](https://gohugo.io/).
+The theme of this blog is designed by [themself](https://github.com/matchy233/archie), based on [archie](https://github.com/athul/archie), and powered by [Hugo](https://gohugo.io/).
 
 ## License
 
