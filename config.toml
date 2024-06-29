@@ -1,0 +1,47 @@
+baseURL = "https://blog.matchy.bio"
+languageCode = "en-us"
+title = "Matchy@blog"
+theme = "archie"
+copyright = "©️ Matchy"
+
+# Code Highlight
+pygmentsstyle = ""
+pygmentscodefences = true
+pygmentscodefencessyntax = true
+
+paginate = 5
+
+[frontmatter]
+date = ["date", ":default", ":git", ":fileModTime"]
+lastmod = [':git', ':fileModTime']
+
+[params]
+mode = "toggle"
+useCDN = true
+subtitle = "Video et Taceo · Veritas Lux Mea"
+katex = true
+
+# [[params.social]]
+# name = "GitHub"
+# icon = "github"
+# url = "https://github.com/matchy233"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Archive"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
