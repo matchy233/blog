@@ -5,7 +5,7 @@ theme = "archie"
 copyright = "©️ Matchy"
 
 # Code Highlight
-pygmentsstyle = ""
+pygmentsstyle = "dracula"
 pygmentscodefences = true
 pygmentscodefencessyntax = true
 
