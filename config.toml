@@ -9,7 +9,8 @@ pygmentsstyle = "dracula"
 pygmentscodefences = true
 pygmentscodefencessyntax = true
 
-paginate = 5
+[pagination]
+pagerSize = 5
 
 [params]
 mode = "toggle"
